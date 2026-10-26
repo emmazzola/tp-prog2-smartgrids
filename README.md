@@ -2,7 +2,7 @@
 
 Sistema de monitoreo de plantas generadoras (solares, eólicas, hidráulicas y térmicas).
 
-- `src/ar/edu/ungs/prog2/smartgrids/ISmartGrids.java`, `CodigoCliente.java` y `SmartGridsTest.java` son los archivos provistos por la cátedra (no se modifican).
+- `src/ar/edu/ungs/prog2/smartgrids/ISmartGrids.java`, `CodigoCliente.java` y `SmartGridsTest.java` son los archivos que nos dieron.
 - `SmartGrids` implementa `ISmartGrids`; el resto de las clases modela las plantas, sus registros de monitoreo y sus períodos de inactividad.
 - `SmartGridsPropioTest.java` tiene tests propios con casos borde.
 
